@@ -11,7 +11,7 @@ void luas_permukaan_bola();
 main()
 {
 int list; menu:
-printf("-> PROGRAM MENGHITUNG VOLUME DAN LUAS PERMUKAAN BANGUN-BANGUN RUANG <- \n");
+printf("-> MENGHITUNG VOLUME DAN LUAS PERMUKAAN BANGUN-BANGUN RUANG <- \n");
 printf("====================================================================== \n");
 printf("Silakan Tentukan Volume Yang Akan Dicari! \n");
 printf("1. Volume Kubus\n 2. Luas Permukaan Kubus\n 3. Volume Balok\n 4. Luas Permukaan Balok \n 5. Volume Bola \n 6. Luas Permukaan Bola \n 0. Keluar dan Selesai\n");
